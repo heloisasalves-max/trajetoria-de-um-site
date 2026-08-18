@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(201, 163, 247);
+    color: rgb(255, 255, 255);
+    font-family:Operator Mono;
+    padding: 15px;
+}
+
+h1 {
+    color:rgb(118, 9, 161);
+    font-size: 48px;
+}
+
+h2 {
+    color: rgb(141, 6, 168);
+    font-size: 28px;
+    padding-top: 40;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    padding-left: 30px;
+    font-size: 18px;
+}
